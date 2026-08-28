@@ -34,9 +34,9 @@ I'm **Retr0**, a **Security Researcher** from **Iran** <img src="https://upload.
 - **Technologies**
 <br><br>
 ![Nmap](https://img.shields.io/badge/Nmap-2E2E2E?style=for-the-badge&logoColor=white)
-<br><br>
-<img src="./Assets/hole_ascii.gif">
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=100000000000000&color=00FF00&width=435&lines=retr0%40Retr0%3A~%24+%E2%96%88)](https://git.io/typing-svg)
 <!--
 **XRetr016/XRetr016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
